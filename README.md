@@ -6,4 +6,4 @@ They are temporary based of the unused Goblin_Thief template already existing in
 
 # Credits
 Huge thanks to DarkWolf_XP for creating a tutorial and template for the system portals.
-Link: https://www.curseforge.com/hytale/mods/portal-fragment-template/comments
+Link: https://www.curseforge.com/hytale/mods/portal-fragment-template
