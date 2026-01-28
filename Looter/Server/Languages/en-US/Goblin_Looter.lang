@@ -1,0 +1,11 @@
+npcRoles.Goblin_Looter.name=Goblin Looter
+items.PortalKey_GoblinLair.name=Portal Key: Goblin Lair
+items.PortalKey_GoblinLair.description=Go to the Goblin Lair, find treasure and escape with it!
+
+portals.GoblinLair.name=Goblin Lair
+portals.GoblinLair.description=Steal the treasures of the Goblin Lord\nAnd get out safely
+
+
+portals.GoblinLair.tip=<color is="#05c09a">Tip1</color>
+portals.GoblinLair.tip2=<color is="#05c09a">Tip2</color>
+portals.GoblinLair.tip3=<color is="#05c09a">Tip3</color>

@@ -1,0 +1,24 @@
+{
+  "InstanceId": "Portals_GoblinLair",
+  "Description": {
+    "DisplayName": "Goblin_Looter.portals.GoblinLair.name",
+    "FlavorText": "Goblin_Looter.portals.GoblinLair.description",
+    "ThemeColor": "#23970cec",
+    "SplashImage": "DefaultArtwork.png",
+    "Tips": [
+      "Goblin_Looter.portals.GoblinLair.tip",
+      "Goblin_Looter.portals.GoblinLair.tip2",
+      "Goblin_Looter.portals.GoblinLair.tip3"
+    ]
+  },
+  "PlayerSpawn": {
+    "Y": 84,
+    "Center": {
+      "X": 0,
+      "Z": 0,
+      "Y": 84
+    },
+    "Yaw": 90,
+    "ScanHeight": 0
+  }
+}

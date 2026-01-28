@@ -1,0 +1,16 @@
+{
+  "Environments": [
+    "Env_Zone1_Plains"
+  ],
+  "NPCs": [
+    {
+      "Weight": 50,
+      "SpawnBlockSet": "Soil",
+      "Id": "Goblin_Looter"
+    }
+  ],
+  "DayTimeRange": [
+    0,
+    24
+  ]
+}

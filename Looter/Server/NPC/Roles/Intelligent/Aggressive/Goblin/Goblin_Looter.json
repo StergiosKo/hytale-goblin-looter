@@ -1,0 +1,20 @@
+{
+  "Type": "Variant",
+  "Reference": "Template_Goblin_Looter",
+  "Modify": {
+    "MaxHealth": 40,
+    "DropList": "Drop_Goblin_Looter",
+    "IsMemory": true,
+    "MemoriesCategory": "Goblin",
+    "MemoriesNameOverride": "Goblin_Looter",
+    "NameTranslationKey": {
+      "Compute": "NameTranslationKey"
+    }
+  },
+  "Parameters": {
+    "NameTranslationKey": {
+      "Value": "Goblin_Looter.npcRoles.Goblin_Looter.name",
+      "Description": "Translation key for NPC name display"
+    }
+  }
+}
